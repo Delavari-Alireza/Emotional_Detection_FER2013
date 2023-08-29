@@ -26,7 +26,7 @@ This project aims to develop and evaluate deep neural network models for facial 
 
 To run the Jupyter Notebook experiments and replicate the results, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone this repository: `git clone https://github.com/Alireza499/Emotional_Detection_FER2013.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Navigate to the specific experiment folder you want to explore.
 4. Launch Jupyter Notebook: `jupyter notebook`
