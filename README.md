@@ -15,7 +15,7 @@ This project aims to develop and evaluate deep neural network models for facial 
 
 - Utilization of the FER-2013 dataset, incorporating real-world images with diverse attributes.
 - Implementation of five sets of experiments, each located in different folders:
-  1. [1 - ResNet](1%20-%20ResNet): Basic ResNet architecture.
+  1. [1 - ResNet](1%20-%20Resnet): Basic ResNet architecture.
   2. [2 - resnetLike without convBlock](2%20-%20resnetLike%20without%20convBlock): ResNet-like architecture without convolutional blocks.
   3. [3 - resnetLike with dropout](3%20-%20resnetLike%20with%20dropout): ResNet-like architecture with dropout layers.
   4. [4 - defeat underfitting](4%20-%20defeat%20underfitting): Strategies to mitigate underfitting.
