@@ -45,6 +45,9 @@ The culmination of this research effort yields the following accuracy rates for 
 
 These results underscore the effectiveness of the developed models, especially considering the complexities inherent in the FER-2013 dataset.
 
+## Dataset
+downloadable from https://www.kaggle.com/datasets/msambare/fer2013
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
