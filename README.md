@@ -4,10 +4,11 @@
 
 ## Abstract
 
-The ability for emotional interaction stands as a paramount concern in shaping the dynamics between machines and humans, with the accurate perception of facial expressions emerging as a pivotal skill in this interplay. However, achieving precise facial expression recognition proves to be a formidable challenge due to the intricate nature of facial states and the myriad of influential factors at play.
+Emotional interaction capability stands as a pivotal concern in determining the nature and extent of interactions between machines and humans. Understanding facial expressions constitutes a key skill in advancing such interactions. Accurate facial expression recognition is a formidable challenge due to the intricacies and variability of facial states, as well as diverse influencing factors.
 
-This research endeavors to discern seven fundamental emotions (anger, disgust, fear, sadness, surprise, neutrality, happiness) by analyzing individuals' facial expressions through the utilization of deep neural networks. To facilitate this, the FER-2013 dataset, comprising real-world images and accounting for factors like gender, age, and ethnicity, is harnessed.
+In this study, the objective is to recognize seven basic emotions (anger, disgust, fear, sadness, surprise, neutrality, happiness) based on individuals' facial expressions using deep neural networks. To achieve this goal, the FER-2013 dataset, compiled from natural images, encompassing factors such as gender, age, ethnicity, etc., has been utilized.
 
+Three models based on the ResNet34 neural network architecture and two variants of EfficientNet, recognized as prominent neural network architectures, have been constructed and experimented on the aforementioned dataset. Ultimately, accuracy rates of 63.97%, 65.71%, 64.73%, 64.32%, and 64.18%, which are notably high considering the dataset complexity, have been achieved.
 ## Project Overview
 
 This project aims to develop and evaluate deep neural network models for facial expression recognition. The key highlights of the project include:
